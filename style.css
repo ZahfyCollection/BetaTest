@@ -1,7 +1,7 @@
 @import url('hyyps://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700;800;900&dispaly=swap');
 @font-face {
     font-family: 'Giddyup Std';
-    src: url(../Zahfy/giddyup-std/GiddyupStd.otf);
+    src: url(.//giddyup-std/GiddyupStd.otf);
 }
 
 *{
